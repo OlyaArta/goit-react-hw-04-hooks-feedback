@@ -1,0 +1,13 @@
+.btn {
+  border-radius: 20%;
+  background-color: aquamarine;
+  margin-left: 10px;
+  cursor: pointer;
+  width: 65px;
+  height: 45px;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: cadetblue;
+}
